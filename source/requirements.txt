@@ -5,7 +5,7 @@ click==6.7
 dill==0.2.7.1
 dj-database-url==0.4.2
 dj-static==0.0.6
-Django==1.11.4
+Django==2.2.24
 django-toolbelt==0.0.1
 Flask==0.12.2
 future==0.16.0
